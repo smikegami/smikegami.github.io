@@ -60,6 +60,14 @@ img {
 	cursor:pointer;
 }
 
+#header{
+	position: fixed;
+	left: 50%;
+	font-size: 40px;
+	top: 12%;
+	left: 55%;
+}
+
 #about_me {
 	position: fixed;
 	left: 55%;
@@ -74,4 +82,18 @@ img {
 	bottom: 25%;
 	right: 55%;
 	left: 10%;
+}
+
+#contact {
+	position:fixed;
+	left: 55%;
+	bottom: 25%;
+	font-size: 20px;
+}
+
+#email{
+	position: fixed;
+	left: 55%;
+	bottom: 18%;
+	font-size: 20px;
 }
