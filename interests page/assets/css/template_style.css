@@ -33,6 +33,7 @@ img {
 	color: black;
 	padding-left: 10px;
 	font-size: 25px;
+	display: block;
 }
 
 #about { 
@@ -61,9 +62,9 @@ img {
 }
 .interestwrapper {
 	top: 20%;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
-#mentor_pic{
+.mentor_pic{
 	width: 200px;
 }
 

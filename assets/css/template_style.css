@@ -50,11 +50,24 @@ img {
  	left: 75%;
  }
 
+ #home:hover, #about:hover, #interests:hover {
+	cursor:pointer;
+	text-decoration: underline;
+}
+
+#home:hover, #about:hover, #interests:hover {
+	cursor:pointer;
+}
+
  #picture {
- 	left: 15%;
+ 	left: 25%;
  	position: absolute;
- 	bottom: 0%;
+ 	bottom: 10%;
  	height: 500px;
+ }
+
+ #picture-circle {
+ 	border-radius: 50%;
  }
 
  .img-circle {

@@ -32,6 +32,7 @@ img {
 	color: black;
 	padding-left: 10px;
 	font-size: 25px;
+	display: block;
 }
 
 #about { 
@@ -49,6 +50,15 @@ img {
  	top: 23px;
  	left: 75%;
  }
+
+ #home:hover, #about:hover, #interests:hover {
+	cursor:pointer;
+	text-decoration: underline;
+}
+
+#home:hover, #about:hover, #interests:hover {
+	cursor:pointer;
+}
 
 #about_me {
 	position: fixed;
