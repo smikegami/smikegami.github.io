@@ -64,15 +64,13 @@ img {
  	position: absolute;
  	bottom: 10%;
  	height: 500px;
+ 	border-radius: 50%;
  }
 
   .picture:hover() .syd:show() {
 	opacity: 0.5;
 }
 
- #picture-circle {
- 	border-radius: 50%;
- }
 
  .img-circle {
     border-radius: 50%;
