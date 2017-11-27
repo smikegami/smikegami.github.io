@@ -66,6 +66,10 @@ img {
  	height: 500px;
  }
 
+  .picture:hover() .syd:show() {
+	opacity: 0.5;
+}
+
  #picture-circle {
  	border-radius: 50%;
  }
@@ -87,3 +91,4 @@ img {
  	left: 60%;
  	bottom: 25%;
  }
+
