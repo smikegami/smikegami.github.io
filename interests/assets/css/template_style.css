@@ -24,7 +24,7 @@ img {
 	height: 75px;
 	width: 100%;
 	background: white;
-	display: block;
+	display: inline;
 }
 
 #home {
@@ -61,6 +61,13 @@ img {
 #home:hover, #about:hover, #interests:hover {
 	cursor:pointer;
 }
+
+#header{ 
+	left:50%;
+	top:12%;
+	position: fixed;
+	font-size: 40px;
+ }
 .interestwrapper {
 	top: 20%;
 	margin-bottom: 0px;

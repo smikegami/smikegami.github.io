@@ -19,7 +19,7 @@ img {
 }
 
 #topbar {
-	position: fixed;
+	position: absolute;
 	height: 75px;
 	width: 100%;
 	background: white;
@@ -71,10 +71,6 @@ img {
 	opacity: 0.5;
 }
 
-
- .img-circle {
-    border-radius: 50%;
-}
 
  #SYD {
  	font-size: 200px;
